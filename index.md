@@ -1,4 +1,4 @@
-![Chris Mace](chris_mace_photo.jpg =250x250)
+![Chris Mace](chris_mace_photo.jpg)
 
 **Email:** chris.mace@eccles.utah.edu &nbsp;  **Phone:** 801-584-9653 
 
