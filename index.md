@@ -24,14 +24,14 @@ We study the effects of trademark protection on firm profits, value and strategy
 
 <br>
 
-**[The Direct Effects of Secondary Markets on Investment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3348102)** (Job Market Paper)
+**[The Direct Effects of Secondary Markets on Investment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3348102)** *(Job Market Paper)*
 
 I examine the influence of equity markets on investments using drug development data. I find that market downturns following phase I clinical trial announcements lead to a 50\% reduction in the likelihood of continued development, even though these downturns are unlikely to affect underlying project value. I also show that these investment distortions have positive spillover effects onto competing firms, as investment into drug classes most affected by market downturns increases dramatically over the next two years. My results show that market cyclicality can result in capital constraints that have widespread effects on firm investment decisions.
 
 
 <br>
 
-**[The Principal-Agent Problem and Employee Monitoring]()** With Jeffrey Coles and Nathan Seegert 
+The Principal-Agent Problem and Employee Monitoring With Jeffrey Coles and Nathan Seegert 
 
 We examine whether increased employee monitoring can create firm value by reducing the principal-agent problem.  Using a state-run vehicle monitoring program as a natural laboratory, we find that increased monitoring leads to significant decreases in fuel, maintenance, and accident costs. These cost savings appear to be driven by reductions in moral hazard issues and subsequent improvements in employee behavior. We do not find that increased monitoring resulted in negative externalities, such as decreased performance or increased absenteeism.
 
