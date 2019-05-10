@@ -31,7 +31,7 @@ I examine the influence of equity markets on investments using drug development 
 
 <br>
 
-The Principal-Agent Problem and Employee Monitoring With Jeffrey Coles and Nathan Seegert 
+**The Principal-Agent Problem and Employee Monitoring** With Jeffrey Coles and Nathan Seegert 
 
 We examine whether increased employee monitoring can create firm value by reducing the principal-agent problem.  Using a state-run vehicle monitoring program as a natural laboratory, we find that increased monitoring leads to significant decreases in fuel, maintenance, and accident costs. These cost savings appear to be driven by reductions in moral hazard issues and subsequent improvements in employee behavior. We do not find that increased monitoring resulted in negative externalities, such as decreased performance or increased absenteeism.
 
@@ -56,19 +56,5 @@ The eutH gene is part of an operon that allows Salmonella enterica to use ethano
 ### Teaching
 
 FINAN 3040 - Financial Management   **[Most recent evals](chris_mace_evals.pdf)**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
