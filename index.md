@@ -2,7 +2,7 @@
 
 **Email:** chris.mace@eccles.utah.edu &nbsp;  **Phone:** 801-584-9653 
 
-**[CV](chris_mace_cv.pdf)**
+**[Curriculum Vitae](chris_mace_cv.pdf)**
 
 
 
