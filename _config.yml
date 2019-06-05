@@ -1,4 +1,9 @@
+
+
 theme: jekyll-theme-slate
 
 title: [Chris Mace]
 description: [Finance Ph.D. Student at University of Utah]
+
+plugins:
+  - jekyll-sitemap
