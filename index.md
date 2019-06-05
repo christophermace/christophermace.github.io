@@ -61,4 +61,4 @@ The eutH gene is part of an operon that allows Salmonella enterica to use ethano
 FINAN 3040 (Summer 2018) - Financial Management   **[(Evaluations)](chris_mace_evals.pdf)**  
 
 
-
+**[(googlef9c65d5a43eb0bbc.html)](googlef9c65d5a43eb0bbc.html)** 
