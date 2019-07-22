@@ -33,13 +33,6 @@ This paper examines the causal effect of secondary market volatility on corporat
 
 <br>
 
-**The Principal-Agent Problem and Employee Monitoring** With Jeffrey Coles and Nathan Seegert 
-
-We examine whether increased employee monitoring can create firm value by reducing the principal-agent problem.  Using a state-run vehicle monitoring program as a natural laboratory, we find that increased monitoring leads to significant decreases in fuel, maintenance, and accident costs. These cost savings appear to be driven by reductions in moral hazard issues and subsequent improvements in employee behavior. We do not find that increased monitoring resulted in negative externalities, such as decreased performance or increased absenteeism.
-
-
-<br>
-
 **[Revisiting Stock Option Exercise and CEO Overconfidence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070678)** 
 
 A growing body of literature claims that CEOs are irrationally overconfident. I find evidence that this "overconfident" behavior is actually quite profitable, indicating that CEOs exhibit behavioral biases less often than previously thought. Firms with "overconfident" CEOs consistently earn returns above the S&P500, with significant Fama-French five-factor alphas. I find that most overconfidence measures mechanically sort firms on profitability and growth, and this subsequently leads to the appearance of CEO overconfidence.
