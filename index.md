@@ -28,7 +28,7 @@ We study the effects of trademark protection on firm profits, value and strategy
 **[Secondary Markets, Animal Spirits, and Corporate Investment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3348102)**  
 *(Job Market Paper)*
 
-This paper examines the causal effect of market volatility on corporate investment. I find that market downturns lead to a 60% increase in the probability of pharmaceutical companies abandoning early-stage investments, even when these downturns are temporary and the underlying value of these investments is insensitive to market fluctuations. I find that financing constraints appear to drive this behavior, suggesting that secondary markets have important feedback effects on primary markets that negatively affect future innovation and economic growth.
+This paper examines the causal effect of financial markets on corporate investment. I find that market downturns lead to a 60% increase in the probability of pharmaceutical companies abandoning early-stage investments, even when these downturns are temporary and the underlying value of these investments is insensitive to market fluctuations. I find that financing constraints appear to drive this behavior, suggesting that secondary markets have important feedback effects on primary markets that negatively affect future innovation and economic growth.
 
 
 <br>
