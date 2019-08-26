@@ -17,8 +17,8 @@
 
 <br>
 
-**[The Dark Side of Trademark Protection](https://papers.ssrn.com/abstract=2798473)** with Davidson Heath  
-*Forthcoming, Review of Financial Studies*
+**[The Dark Side of Trademark Protection](https://doi.org/10.1093/rfs/hhz084)** with Davidson Heath  
+*Review of Financial Studies (2019)*
 
 We study the effects of trademark protection on firm profits, value and strategy. Using diff-in-diff and switching estimates around the passage and nullification of the Federal Trademark Dilution Act (FTDA) we find that from 1996 to 2002 the FTDA raised treated firms’ operating margins by 12% and firm values by 9.5% on average. The FTDA’s passage was followed by a spike in trademark lawsuits, lower entry, and higher concentration in more affected industries. Firms granted stronger trademark protection reduced both product quality and innovation, and extended protected brands into all-new product markets.
 
@@ -28,7 +28,7 @@ We study the effects of trademark protection on firm profits, value and strategy
 **[Secondary Markets, Animal Spirits, and Corporate Investment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3348102)**  
 *(Job Market Paper)*
 
-This paper examines the causal effect of secondary market volatility on corporate investment. I find that market downturns lead to a 60% increase in the probability of pharmaceutical companies abandoning early-stage investments, even when these downturns are temporary and the underlying value of these investments is insensitive to market fluctuations. I find that financing constraints appear to drive this behavior, suggesting that secondary markets have important feedback effects on primary markets that negatively affect future innovation and economic growth.
+This paper examines the causal effect of market volatility on corporate investment. I find that market downturns lead to a 60% increase in the probability of pharmaceutical companies abandoning early-stage investments, even when these downturns are temporary and the underlying value of these investments is insensitive to market fluctuations. I find that financing constraints appear to drive this behavior, suggesting that secondary markets have important feedback effects on primary markets that negatively affect future innovation and economic growth.
 
 
 <br>
