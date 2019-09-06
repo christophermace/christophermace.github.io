@@ -30,6 +30,12 @@ We study the effects of trademark protection on firm profits, value and strategy
 
 This paper examines the causal effect of financial markets on corporate investment. I find that market downturns lead to a 60% increase in the probability of pharmaceutical companies abandoning early-stage investments, even when these downturns are temporary and the underlying value of these investments is insensitive to market fluctuations. I find that financing constraints appear to drive this behavior, suggesting that secondary markets have important feedback effects on primary markets that negatively affect future innovation and economic growth.
 
+<br>
+
+**[The Principal-Agent Problem and Employee Monitoring]** 
+
+This paper examines whether increased employee monitoring can create organizational value by reducing the principal-agent problem.  Using a state-run vehicle monitoring program as a natural laboratory, I find that increased monitoring leads to significant decreases in fuel, maintenance, and accident costs. These cost savings appear to be driven by reductions in moral hazard issues and subsequent improvements in employee behavior.  I do not find that increased monitoring resulted in negative externalities, such as decreased performance or increased absenteeism.
+
 
 <br>
 
