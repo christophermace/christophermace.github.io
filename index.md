@@ -32,7 +32,7 @@ This paper examines the causal effect of financial markets on corporate investme
 
 <br>
 
-**[The Principal-Agent Problem and Employee Monitoring]()** 
+**[The Principal-Agent Problem and Employee Monitoring](mon_paper.pdf)** 
 
 This paper examines whether increased employee monitoring can create organizational value by reducing the principal-agent problem.  Using a state-run vehicle monitoring program as a natural laboratory, I find that increased monitoring leads to significant decreases in fuel, maintenance, and accident costs. These cost savings appear to be driven by reductions in moral hazard issues and subsequent improvements in employee behavior.  I do not find that increased monitoring resulted in negative externalities, such as decreased performance or increased absenteeism.
 
