@@ -34,6 +34,7 @@ I examine the direct effects of secondary markets on firm investment and innovat
 
 
 **[Marijuana Taxation and Imperfect Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521911)**  with Elena Patel and Nathan Seegert
+
 *National Tax Journal, June 2020, 73 (2)*
 
 We investigate the tax implications for the new recreational marijuana industry in the United States, which reached a size of $9 billion in 2017. We exploit administrative data from Washington state to evaluate market conduct, and we estimate the elasticity of supply to be 1.46. In addition, we conduct a survey of marijuana producers and retailers in Colorado, Oregon, and Washington, calculating the elasticity of demand to be -1.84. We use these estimates to determine how much of the tax burden is borne by consumers. The answer depends on market conduct. In perfectly competitive markets, producers pay slightly more of the tax than consumers, but in a monopoly market consumers would pay most of the tax. Additionally, we calculate that the change in deadweight loss due to the tax is $63 million per year or 48% of total marijuana tax revenues in 2015. This calculation, however, depends critically on estimates of consumption externalities.  
