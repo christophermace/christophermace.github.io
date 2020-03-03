@@ -33,7 +33,7 @@ I examine the direct effects of secondary markets on firm investment and innovat
 <br>
 
 
-**[Marijuana Taxation and Imperfect Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521911)** with Elena Patel and Nathan Seegert
+**[Marijuana Taxation and Imperfect Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521911)** with Elena Patel and Nathan Seegert  
 *National Tax Journal, June 2020, 73 (2)*
 
 We investigate the tax implications for the new recreational marijuana industry in the United States, which reached a size of $9 billion in 2017. We exploit administrative data from Washington state to evaluate market conduct, and we estimate the elasticity of supply to be 1.46. In addition, we conduct a survey of marijuana producers and retailers in Colorado, Oregon, and Washington, calculating the elasticity of demand to be -1.84. We use these estimates to determine how much of the tax burden is borne by consumers. The answer depends on market conduct. In perfectly competitive markets, producers pay slightly more of the tax than consumers, but in a monopoly market consumers would pay most of the tax. Additionally, we calculate that the change in deadweight loss due to the tax is $63 million per year or 48% of total marijuana tax revenues in 2015. This calculation, however, depends critically on estimates of consumption externalities.  
@@ -55,7 +55,7 @@ A growing body of literature claims that CEOs are irrationally overconfident. I 
 
 <br>
 
-**[A pH-sensitive function and phenotype: evidence that EutH facilitates diffusion of uncharged ethanolamine in Salmonella enterica](https://jb.asm.org/content/186/20/6885.short)**  with Joseph Penrod and John Roth
+**[A pH-sensitive function and phenotype: evidence that EutH facilitates diffusion of uncharged ethanolamine in Salmonella enterica](https://jb.asm.org/content/186/20/6885.short)**  with Joseph Penrod and John Roth  
 *Journal of Bacteriology 186.20 (2004): 6885-6890.*
 
 The eutH gene is part of an operon that allows Salmonella enterica to use ethanolamine as a sole source of nitrogen, carbon, and energy. Although the sequence of EutH suggests a role in transport, eutH mutants use ethanolamine normally under standard conditions (pH 7.0). These mutants fail to use ethanolamine at a low pH. Evidence is presented that protonated ethanolamine (Eth0) does not enter cells, while uncharged ethanolamine (Eth0) diffuses freely across the membrane. The external concentration of Eth0 varies with the pH (pK = 9.5). At pH 7.0, the standard ethanolamine concentration (41 mM) provides enough Eth0 for an influx rate that can support growth with or without EutH. When a lowered pH and/or ethanolamine concentration reduced the Eth0 concentration below 25 μM, EutH was needed to facilitate diffusion. EutH+ cells grew normally at Eth0 concentrations above 3 μM, close to the Km (9 μM) of the first degradative enzyme, ethanolamine ammonia lyase. It is suggested that EutH facilitates diffusion of Eth0. As predicted for a transporter, EutH contributed to the toxicity of ethanolamine seen under some conditions; furthermore, fusion of EutH to fluorescent Yfp protein provided evidence that EutH is a membrane protein.
