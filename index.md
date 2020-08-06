@@ -1,6 +1,6 @@
 ![Chris Mace](chris_mace_photo1.jpg)
 
-**Email:** chris.mace@eccles.utah.edu &nbsp;  **Phone:** 801-584-9653 
+**Email:** christopher.mace@utdallas.edu &nbsp;  **Phone:** 801-584-9653 
 
 **[Curriculum Vitae](chris_mace_cv.pdf)**
 
