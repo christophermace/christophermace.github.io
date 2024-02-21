@@ -18,7 +18,7 @@
 <br>
 
 **[The Strategic Effects of Trademark Protection](https://doi.org/10.1093/rfs/hhz084)** with Davidson Heath  
-*Review of Financial Studies (2019)*
+*The Review of Financial Studies, Volume 33, Issue 4, April 2020, Pages 1848-1877*
 
 We study the effects of trademark protection on firms’ profits and strategy using the 1996 Federal Trademark Dilution Act, which granted additional legal protection to selected trademarks. We find that the FTDA raised treated firms’ operating profits and was followed by a spike in trademark lawsuits and lower entry and exit in affected product markets. Treated firms reduced R&D spending, produced fewer patents and new products, and recalled a higher number of unsafe products. Our results suggest that stronger trademark protection negatively affected innovation and product quality.
 
@@ -26,7 +26,7 @@ We study the effects of trademark protection on firms’ profits and strategy us
 <br>
 
 **[The Real Effects of Secondary Markets on Innovation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3348102)**  
-*(Job Market Paper)*
+*Journal of Financial and Quantitative Analysis, Volume 58, Issue 6, September 2023, pp. 2522-2552*
 
 I examine the direct effects of secondary markets on firm investment and innovation. I find that market downturns cause pharmaceutical companies to abandon early-stage drug developments irrespective of drug quality or future investment value. I show that financing constraints appear to drive this behavior.  My results indicate that secondary markets have important feedback effects, distinct from information feedback channels, that affect creative destruction and permanently change innovation.  
 
@@ -34,17 +34,18 @@ I examine the direct effects of secondary markets on firm investment and innovat
 
 
 **[Marijuana Taxation and Imperfect Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521911)** with Elena Patel and Nathan Seegert  
-*National Tax Journal, June 2020, 73 (2)*
+*National Tax Journal, 73(2), 545-592*
 
 We investigate the tax implications for the new recreational marijuana industry in the United States, which reached a size of $9 billion in 2017. We exploit administrative data from Washington state to evaluate market conduct, and we estimate the elasticity of supply to be 1.46. In addition, we conduct a survey of marijuana producers and retailers in Colorado, Oregon, and Washington, calculating the elasticity of demand to be -1.84. We use these estimates to determine how much of the tax burden is borne by consumers. The answer depends on market conduct. In perfectly competitive markets, producers pay slightly more of the tax than consumers, but in a monopoly market consumers would pay most of the tax. Additionally, we calculate that the change in deadweight loss due to the tax is $63 million per year or 48% of total marijuana tax revenues in 2015. This calculation, however, depends critically on estimates of consumption externalities.  
 
-<br>
+<!--- <br>
 
 
 **[The Principal-Agent Problem and Employee Monitoring](chris_mace_monitoring_final.pdf)** 
 
 This paper examines whether increased employee monitoring can create organizational value by reducing the principal-agent problem.  Using a state-run vehicle monitoring program as a natural laboratory, I find that increased monitoring leads to significant decreases in fuel, maintenance, and accident costs. These cost savings appear to be driven by reductions in moral hazard issues and subsequent improvements in employee behavior.  I do not find that increased monitoring resulted in negative externalities, such as decreased performance or increased absenteeism.
 
+--->
 
 <br>
 
@@ -66,8 +67,11 @@ The eutH gene is part of an operon that allows Salmonella enterica to use ethano
 
 ### Teaching
 
-FINAN 3040 (Summer 2018) - Financial Management   **[(Evaluations)](chris_mace_evals.pdf)**  
-
+FINAN 3040 (Summer 2018) - Financial Management   
+FIN 3320 (Spring 2021) - Business Finance
+FIN 3320 (Spring 2022) - Business Finance
+FIN 3320 (Fall 2022) - Business Finance
+FIN 3320 (Spring 2024) - Business Finance
 
 **[(googlef9c65d5a43eb0bbc.html)](googlef9c65d5a43eb0bbc.html)** 
 **[(sitemap.xml)](sitemap.xml)** 
