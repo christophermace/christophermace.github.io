@@ -45,7 +45,7 @@ We investigate the tax implications for the new recreational marijuana industry 
 
 This paper examines whether increased employee monitoring can create organizational value by reducing the principal-agent problem.  Using a state-run vehicle monitoring program as a natural laboratory, I find that increased monitoring leads to significant decreases in fuel, maintenance, and accident costs. These cost savings appear to be driven by reductions in moral hazard issues and subsequent improvements in employee behavior.  I do not find that increased monitoring resulted in negative externalities, such as decreased performance or increased absenteeism.
 
---->
+
 
 <br>
 
@@ -53,7 +53,7 @@ This paper examines whether increased employee monitoring can create organizatio
 
 A growing body of literature claims that CEOs are irrationally overconfident. I find evidence that this "overconfident" behavior is actually quite profitable, indicating that CEOs exhibit behavioral biases less often than previously thought. Firms with "overconfident" CEOs consistently earn returns above the S&P500, with significant Fama-French five-factor alphas. I find that most overconfidence measures mechanically sort firms on profitability and growth, and this subsequently leads to the appearance of CEO overconfidence.
 
-
+--->
 <br>
 
 **[A pH-sensitive function and phenotype: evidence that EutH facilitates diffusion of uncharged ethanolamine in Salmonella enterica](https://jb.asm.org/content/186/20/6885.short)**  with Joseph Penrod and John Roth  
